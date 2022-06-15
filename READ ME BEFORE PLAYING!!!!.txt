@@ -1,1 +1,0 @@
-Firefreezer is a 2d game based on temperature if the character snowman goes near ice then the size of the character gets increased and if it goes near the lava or the fire then the size of the snowman decreases due to the melting of snow and getting away from the attacks of villain is the main theme inorder to maintain the highscore
